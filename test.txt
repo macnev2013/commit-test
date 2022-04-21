@@ -1,3 +1,4 @@
 Normal Commit
 New Merge Commit
 Test
+Test 2
