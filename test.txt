@@ -1,1 +1,2 @@
 Normal Commit
+New Merge Commit
